@@ -10,3 +10,9 @@ It works on the files that git is tracking
 as well as the working directory.
 It is good because some files are best not
 published to git such as confidential information.
+
+How can you use the staging area to make sure 
+you have one commit per logical change?
+A few ways, an easy one is by using the git
+add to add only the files that are logically
+connected.
