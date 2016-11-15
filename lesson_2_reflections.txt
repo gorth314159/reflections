@@ -1,0 +1,12 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+It creates the set up files to run git.
+You need to do this to start your repository.
+
+How is the staging area different from 
+the working directory and the repository? 
+What value do you think it offers?
+It works on the files that git is tracking
+as well as the working directory.
+It is good because some files are best not
+published to git such as confidential information.
