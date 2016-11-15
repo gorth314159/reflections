@@ -16,3 +16,9 @@ you have one commit per logical change?
 A few ways, an easy one is by using the git
 add to add only the files that are logically
 connected.
+
+What are some situations when branches would be 
+helpful in keeping your history organized? How would branches help?
+When you have a large number of changes that you would like to make (too big for one commit)
+Branches can allow you to take code and completely change it while allowing working code
+to stay untouched.
